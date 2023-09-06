@@ -317,6 +317,10 @@ section {
 	color: var(--background-color);
 	background-color: var(--accent-color);
 }
+#floatingTextarea{
+	resize: none;
+	height: 80px;
+}
 /* #endregion */
 
 /* Footer */
